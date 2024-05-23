@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saran2hema
+- 👋 Hi, I’m @HemamaliniNarayanamurthy
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning cloud application development 
-- 💞️ I’m looking to collaborate on web development 
+- 🌱 I’m currently learning automation testing
+- 💞️ I’m looking to collaborate on Manual/Automation TEsting
 - 📫 How to reach me ...
 
 <!---
