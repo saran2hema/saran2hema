@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HemamaliniNarayanamurthy
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning automation testing
-- 💞️ I’m looking to collaborate on Manual/Automation TEsting
+- 👀 I’m an Automation Test Engineer
+- I'm skilled in Selenium, JAVA, TestNG, Cucumber, RestAssured, Cypress
+- 💞️ I’m looking to collaborate on Manual/Automation Testing
 - 📫 How to reach me ...
 
 <!---
